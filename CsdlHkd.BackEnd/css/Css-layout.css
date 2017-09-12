@@ -1,0 +1,131 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+#menu ul {
+    list-style-type: none;
+    background: #8c6520;
+    text-align: left;
+    border-bottom: 3px solid #3b3b3b;
+    margin: 0;
+    position: relative;
+}
+
+#menu ul li {
+    color: #4cff00;
+    display: inline-table;
+    width: 120px;
+    height: 44px;
+    line-height: 44px;
+    position: relative;
+    border-right: 1px solid #7e5b1e;
+    z-index: 100;
+}
+
+ #menu ul li a {
+    color: #f7f7f7;
+    text-decoration: none;
+    display: block;
+}
+
+#menu ul li a:hover {
+    background-color: #ffffff;
+    color: #000000;
+    overflow: hidden;
+    /*height:20px;
+    line-height:20px;*/
+}
+
+#menu ul li > .sub {
+    display: none;
+    position: absolute;
+    /*width: 250px;*/
+    border-bottom: 1px solid #8c6520;
+}
+
+#menu ul li:hover .sub {
+    display: block;
+}
+
+#menu ul li ul li {
+    color: #4cff00;
+    display: inline-table;
+    width: 250px;
+    height: 35px;
+    line-height: 35px;
+    position: relative;
+    float:left;
+    z-index: 100;
+}
+#menu ul li ul li a span {
+        margin-left: 10px;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        display: block;
+        overflow: hidden;
+        width: 225px;
+    }
+/*#logout {
+    float: right;
+}*/
+    #menu ul > .logout {
+        height: 35px;
+        line-height: 35px;
+        border-right: none;
+        position: absolute;right: 0;top: 0;
+    }
+    #menu ul > .logout a {
+        width: 100px;
+        float: right;
+        height: 44px;
+        line-height: 44px;
+        border-left: 1px solid #7e5b1e;
+    }
+
+    #menu ul > .logout b {
+        color: #efefef;
+        height: 44px;
+        line-height: 44px;
+    }
+
+.page-footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #8c6520;
+    padding: 1rem;
+    height: 72px;
+}
+
+.footer {
+    position: fixed;
+    /*right: 0;*/
+    bottom: 0;
+    /*left: 0;*/
+    width: 100%;
+    background-color: #8c6520;
+    padding: 1rem;
+    height: 72px;
+}
+
+#body {
+    height: 100vh;
+    background: #fff;
+}
+header{
+    position:relative;
+    z-index:20;
+}
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover{    background-color: #8c6520;
+    border-color: #8c6520;}
+
+.mnnav{ text-align: center}
+.btn-primary{background-color: #8c6520!important}
+.mnnav a{ margin-top: 10px;}
+

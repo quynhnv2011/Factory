@@ -1,0 +1,152 @@
+E:\Project\UD_CSDL_HKD\DataAccess\DataAccess\bin\Debug\DataAccess.dll
+E:\Project\UD_CSDL_HKD\DataAccess\DataAccess\bin\Debug\DataAccess.pdb
+E:\Project\UD_CSDL_HKD\DataAccess\DataAccess\obj\Debug\DataAccess.dll
+E:\Project\UD_CSDL_HKD\DataAccess\DataAccess\obj\Debug\DataAccess.pdb
+E:\Project\UD_CSDL_HKD\DataAccess\DataAccess\bin\Debug\Business.dll
+E:\Project\UD_CSDL_HKD\DataAccess\DataAccess\bin\Debug\Business.pdb
+E:\Project\UD_CSDL_HKD\DataAccess\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\Project\UD_CSDL_HKD\DataAccess\DataAccess\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\DataCloudJsc\UD_CSDL_HKD\UD_CSDL_HKD\DataAccess\bin\Debug\DataAccess.dll
+E:\DataCloudJsc\UD_CSDL_HKD\UD_CSDL_HKD\DataAccess\bin\Debug\DataAccess.pdb
+E:\DataCloudJsc\UD_CSDL_HKD\UD_CSDL_HKD\DataAccess\bin\Debug\Business.dll
+E:\DataCloudJsc\UD_CSDL_HKD\UD_CSDL_HKD\DataAccess\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\DataCloudJsc\UD_CSDL_HKD\UD_CSDL_HKD\DataAccess\bin\Debug\Business.pdb
+E:\DataCloudJsc\UD_CSDL_HKD\UD_CSDL_HKD\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\DataCloudJsc\UD_CSDL_HKD\UD_CSDL_HKD\DataAccess\obj\Debug\DataAccess.dll
+E:\DataCloudJsc\UD_CSDL_HKD\UD_CSDL_HKD\DataAccess\obj\Debug\DataAccess.pdb
+E:\Project\UD_CSDL_HKD\UD_CSDL_HKD\DataAccess\bin\Debug\DataAccess.dll
+E:\Project\UD_CSDL_HKD\UD_CSDL_HKD\DataAccess\bin\Debug\DataAccess.pdb
+E:\Project\UD_CSDL_HKD\UD_CSDL_HKD\DataAccess\bin\Debug\Business.dll
+E:\Project\UD_CSDL_HKD\UD_CSDL_HKD\DataAccess\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Project\UD_CSDL_HKD\UD_CSDL_HKD\DataAccess\bin\Debug\Business.pdb
+E:\Project\UD_CSDL_HKD\UD_CSDL_HKD\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\Project\UD_CSDL_HKD\UD_CSDL_HKD\DataAccess\obj\Debug\DataAccess.dll
+E:\Project\UD_CSDL_HKD\UD_CSDL_HKD\DataAccess\obj\Debug\DataAccess.pdb
+E:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\DataAccess.dll
+E:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\DataAccess.pdb
+E:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\Business.dll
+E:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\Business.pdb
+E:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\obj\Debug\DataAccess.dll
+E:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\obj\Debug\DataAccess.pdb
+E:\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\DataAccess.dll
+E:\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\DataAccess.pdb
+E:\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\Business.dll
+E:\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\Common.dll
+E:\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.Mvc.dll
+E:\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\EPPlus.dll
+E:\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.Razor.dll
+E:\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.WebPages.dll
+E:\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\Business.pdb
+E:\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\Common.pdb
+E:\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.Mvc.xml
+E:\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\EPPlus.xml
+E:\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.Razor.xml
+E:\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.WebPages.xml
+E:\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Project\CSDL-HKD-HCM\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\Project\CSDL-HKD-HCM\DataAccess\obj\Debug\DataAccess.dll
+E:\Project\CSDL-HKD-HCM\DataAccess\obj\Debug\DataAccess.pdb
+G:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\DataAccess.dll
+G:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\DataAccess.pdb
+G:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\Business.dll
+G:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\Common.dll
+G:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\Oracle.ManagedDataAccess.dll
+G:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.Mvc.dll
+G:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\EPPlus.dll
+G:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.Razor.dll
+G:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.WebPages.Razor.dll
+G:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.WebPages.dll
+G:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\Business.pdb
+G:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\Common.pdb
+G:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.Mvc.xml
+G:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\EPPlus.xml
+G:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.Razor.xml
+G:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.WebPages.Razor.xml
+G:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.WebPages.xml
+G:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+G:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\obj\Debug\DataAccess.dll
+G:\DataCloudJsc\Project\CSDL-HKD-HCM\DataAccess\obj\Debug\DataAccess.pdb
+D:\DataCloudJsc\Project\CSDL-HKD-HCM2\CSDL-HKD-HCM\DataAccess\bin\Debug\DataAccess.dll
+D:\DataCloudJsc\Project\CSDL-HKD-HCM2\CSDL-HKD-HCM\DataAccess\bin\Debug\DataAccess.pdb
+D:\DataCloudJsc\Project\CSDL-HKD-HCM2\CSDL-HKD-HCM\DataAccess\bin\Debug\Business.dll
+D:\DataCloudJsc\Project\CSDL-HKD-HCM2\CSDL-HKD-HCM\DataAccess\bin\Debug\Common.dll
+D:\DataCloudJsc\Project\CSDL-HKD-HCM2\CSDL-HKD-HCM\DataAccess\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\DataCloudJsc\Project\CSDL-HKD-HCM2\CSDL-HKD-HCM\DataAccess\bin\Debug\Core.Web.dll
+D:\DataCloudJsc\Project\CSDL-HKD-HCM2\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.Mvc.dll
+D:\DataCloudJsc\Project\CSDL-HKD-HCM2\CSDL-HKD-HCM\DataAccess\bin\Debug\EPPlus.dll
+D:\DataCloudJsc\Project\CSDL-HKD-HCM2\CSDL-HKD-HCM\DataAccess\bin\Debug\Core.DataAccess.dll
+D:\DataCloudJsc\Project\CSDL-HKD-HCM2\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.Razor.dll
+D:\DataCloudJsc\Project\CSDL-HKD-HCM2\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.WebPages.Razor.dll
+D:\DataCloudJsc\Project\CSDL-HKD-HCM2\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.WebPages.dll
+D:\DataCloudJsc\Project\CSDL-HKD-HCM2\CSDL-HKD-HCM\DataAccess\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\DataCloudJsc\Project\CSDL-HKD-HCM2\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\DataCloudJsc\Project\CSDL-HKD-HCM2\CSDL-HKD-HCM\DataAccess\bin\Debug\Business.pdb
+D:\DataCloudJsc\Project\CSDL-HKD-HCM2\CSDL-HKD-HCM\DataAccess\bin\Debug\Common.pdb
+D:\DataCloudJsc\Project\CSDL-HKD-HCM2\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.Mvc.xml
+D:\DataCloudJsc\Project\CSDL-HKD-HCM2\CSDL-HKD-HCM\DataAccess\bin\Debug\EPPlus.xml
+D:\DataCloudJsc\Project\CSDL-HKD-HCM2\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.Razor.xml
+D:\DataCloudJsc\Project\CSDL-HKD-HCM2\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.WebPages.Razor.xml
+D:\DataCloudJsc\Project\CSDL-HKD-HCM2\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.WebPages.xml
+D:\DataCloudJsc\Project\CSDL-HKD-HCM2\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\DataCloudJsc\Project\CSDL-HKD-HCM2\CSDL-HKD-HCM\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\DataCloudJsc\Project\CSDL-HKD-HCM2\CSDL-HKD-HCM\DataAccess\obj\Debug\DataAccess.dll
+D:\DataCloudJsc\Project\CSDL-HKD-HCM2\CSDL-HKD-HCM\DataAccess\obj\Debug\DataAccess.pdb
+D:\DataCloudJsc\Project\CSDL-HKD-HCM3\CSDL-HKD-HCM\DataAccess\bin\Debug\DataAccess.dll
+D:\DataCloudJsc\Project\CSDL-HKD-HCM3\CSDL-HKD-HCM\DataAccess\bin\Debug\DataAccess.pdb
+D:\DataCloudJsc\Project\CSDL-HKD-HCM3\CSDL-HKD-HCM\DataAccess\bin\Debug\Business.dll
+D:\DataCloudJsc\Project\CSDL-HKD-HCM3\CSDL-HKD-HCM\DataAccess\bin\Debug\Common.dll
+D:\DataCloudJsc\Project\CSDL-HKD-HCM3\CSDL-HKD-HCM\DataAccess\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\DataCloudJsc\Project\CSDL-HKD-HCM3\CSDL-HKD-HCM\DataAccess\bin\Debug\Core.Web.dll
+D:\DataCloudJsc\Project\CSDL-HKD-HCM3\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.Mvc.dll
+D:\DataCloudJsc\Project\CSDL-HKD-HCM3\CSDL-HKD-HCM\DataAccess\bin\Debug\EPPlus.dll
+D:\DataCloudJsc\Project\CSDL-HKD-HCM3\CSDL-HKD-HCM\DataAccess\bin\Debug\Core.DataAccess.dll
+D:\DataCloudJsc\Project\CSDL-HKD-HCM3\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.Razor.dll
+D:\DataCloudJsc\Project\CSDL-HKD-HCM3\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.WebPages.Razor.dll
+D:\DataCloudJsc\Project\CSDL-HKD-HCM3\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.WebPages.dll
+D:\DataCloudJsc\Project\CSDL-HKD-HCM3\CSDL-HKD-HCM\DataAccess\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\DataCloudJsc\Project\CSDL-HKD-HCM3\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\DataCloudJsc\Project\CSDL-HKD-HCM3\CSDL-HKD-HCM\DataAccess\bin\Debug\Business.pdb
+D:\DataCloudJsc\Project\CSDL-HKD-HCM3\CSDL-HKD-HCM\DataAccess\bin\Debug\Common.pdb
+D:\DataCloudJsc\Project\CSDL-HKD-HCM3\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.Mvc.xml
+D:\DataCloudJsc\Project\CSDL-HKD-HCM3\CSDL-HKD-HCM\DataAccess\bin\Debug\EPPlus.xml
+D:\DataCloudJsc\Project\CSDL-HKD-HCM3\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.Razor.xml
+D:\DataCloudJsc\Project\CSDL-HKD-HCM3\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.WebPages.Razor.xml
+D:\DataCloudJsc\Project\CSDL-HKD-HCM3\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.WebPages.xml
+D:\DataCloudJsc\Project\CSDL-HKD-HCM3\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\DataCloudJsc\Project\CSDL-HKD-HCM3\CSDL-HKD-HCM\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\DataCloudJsc\Project\CSDL-HKD-HCM3\CSDL-HKD-HCM\DataAccess\obj\Debug\DataAccess.dll
+D:\DataCloudJsc\Project\CSDL-HKD-HCM3\CSDL-HKD-HCM\DataAccess\obj\Debug\DataAccess.pdb
+D:\New folder (2)\CSDL-HKD-HCM\DataAccess\bin\Debug\DataAccess.dll
+D:\New folder (2)\CSDL-HKD-HCM\DataAccess\bin\Debug\DataAccess.pdb
+D:\New folder (2)\CSDL-HKD-HCM\DataAccess\bin\Debug\Business.dll
+D:\New folder (2)\CSDL-HKD-HCM\DataAccess\bin\Debug\Common.dll
+D:\New folder (2)\CSDL-HKD-HCM\DataAccess\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\New folder (2)\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.Mvc.dll
+D:\New folder (2)\CSDL-HKD-HCM\DataAccess\bin\Debug\EPPlus.dll
+D:\New folder (2)\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.Razor.dll
+D:\New folder (2)\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.WebPages.Razor.dll
+D:\New folder (2)\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.WebPages.dll
+D:\New folder (2)\CSDL-HKD-HCM\DataAccess\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\New folder (2)\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\New folder (2)\CSDL-HKD-HCM\DataAccess\bin\Debug\Business.pdb
+D:\New folder (2)\CSDL-HKD-HCM\DataAccess\bin\Debug\Common.pdb
+D:\New folder (2)\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.Mvc.xml
+D:\New folder (2)\CSDL-HKD-HCM\DataAccess\bin\Debug\EPPlus.xml
+D:\New folder (2)\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.Razor.xml
+D:\New folder (2)\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.WebPages.Razor.xml
+D:\New folder (2)\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.WebPages.xml
+D:\New folder (2)\CSDL-HKD-HCM\DataAccess\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\New folder (2)\CSDL-HKD-HCM\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\New folder (2)\CSDL-HKD-HCM\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\New folder (2)\CSDL-HKD-HCM\DataAccess\obj\Debug\DataAccess.dll
+D:\New folder (2)\CSDL-HKD-HCM\DataAccess\obj\Debug\DataAccess.pdb
